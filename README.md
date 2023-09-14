@@ -4,7 +4,16 @@ File naming rules as follow:
 * 
 
 # Datasets
-## For signatures
+## For signatures and simulation generation
 
 |Short names|Description|References and links|
 |:-:|:-:|:-:|
+
+# Deconvolution algorithms
+|Name|Classification|References and installation|
+
+# Other packages
+
+# Directry structure
+
+# References
