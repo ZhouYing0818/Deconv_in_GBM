@@ -11,6 +11,7 @@ File naming rules as follow:
 
 # Deconvolution algorithms
 |Name|Classification|References and installation|
+|:-:|:-:|:-:|
 
 # Other packages
 
